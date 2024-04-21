@@ -1,2 +1,2 @@
-mimesis
+faker
 pyinputplus
